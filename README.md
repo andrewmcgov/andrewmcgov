@@ -1,10 +1,8 @@
 ### Hey 👋
 
-I'm Andrew. I work @ [Shopify](https://www.shopify.com/) as a web developer.
+I'm Andrew. I work @ [Shopify](https://www.shopify.com/) as a Senior frontend developer.
 
 I like working with JavaScript, TypeScript, and React. 
-
-Say hi over on [twitter!](https://twitter.com/andrew_mcgov) 
 
 <!--
 **andrewmcgov/andrewmcgov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
